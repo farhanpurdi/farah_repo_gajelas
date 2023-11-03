@@ -1,5 +1,5 @@
 import './Header.css'
-import Logo from '../../assets/sepatu1.png'
+// import Logo from '../../assets/sepatu1.png'
 // import mesin from '../../assets/WashingMachine.png'
 // import timer from '../../assets/Timer.png'
 // import wallet from '../../assets/Wallet.png'
