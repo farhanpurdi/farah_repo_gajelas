@@ -1,0 +1,9 @@
+nav{
+    flex: 1;
+    text-align: right;
+    max-width: 1600px;
+    margin: auto;
+    padding-left: 100px;
+    padding-right: 25px;
+    background-color: #0F0C22; 
+}

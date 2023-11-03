@@ -1,0 +1,18 @@
+.contentLogin {
+    display: flex;
+    flex-direction: row;
+}
+    
+#content_leftLogin {
+    width: 90%;
+    height: 120%;
+    background: rgba(0,0,0,0.1);
+}
+
+#content_rightLogin {
+    width: 700px;
+
+    display: block;
+    background-color: #f7f7f7;
+    padding: 173px 55px 55px 55px;
+}

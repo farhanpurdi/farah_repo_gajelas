@@ -1,0 +1,22 @@
+#kotakChatAI{
+    background: #F3F3F3;
+    box-shadow: 1px 2px 10px rgba(red, green, blue, alpha);
+    border-radius: 8px;
+    height: 550px;
+    margin: 5rem auto 8.1rem auto;
+    width: 620px;
+} 
+
+#command:focus {
+    border: 3px solid #9ed0dc;
+    background-color: #f4f4f4;
+
+}
+
+#kotak-content{
+    padding: 12px 5px;
+}
+
+#kotak-titte h4{
+    text-align: center;
+}
